@@ -1,0 +1,34 @@
+﻿@*@model string //model con m minuscula sirve para especificar el tipo de dato del modelo que va a recibir la vista.*@
+@model Person
+
+@{
+    ViewData["Title"] = "Home Page";
+
+    string ConcatenateAge(int valor) => $"{valor} años";
+    var names = new List<string>() { "Steven", "Iara" };
+}
+
+<div class="text-center">
+    @*Model con M mayuscula sirve para accerder al dato que se envio desde el controlador *@
+    <h1 class="display-4">Soy @Model.Name (@ConcatenateAge(@Model.Age)) </h1>
+    @*<h1 class="display-4">Soy @Model @ViewBag.Name</h1>*@
+
+    @if (Model.Age >= 18)
+    {
+        <ul>
+            @foreach (var item in names)
+            {
+                <li>Hola @item</li>
+            
+            }
+        </ul>
+    }
+
+
+    <h2>Soy un desarrollador full stack especializado en tecnologias .NET</h2>
+    <img  
+        id="foto"
+        src="~/images/fotoperfil.jpg" alt="Foto de Michael Williams"/>
+        @*~ Este simbolo sirve para indicar el root o raiz de la app.*@
+</div>
+
