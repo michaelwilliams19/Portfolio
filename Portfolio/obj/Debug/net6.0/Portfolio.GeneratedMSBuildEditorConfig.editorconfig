@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\MichaelWilliams\source\repos\Portfolio\Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/Gracias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHcmFjaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +33,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/Proyects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm95ZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/_ListadoProyectos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTGlzdGFkb1Byb3llY3Rvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/_Presentation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUHJlc2VudGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/_SectionProjects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2VjdGlvblByb2plY3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Home/_Skills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfU2tpbGxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MichaelWilliams/source/repos/Portfolio/Portfolio/Views/Shared/Error.cshtml]

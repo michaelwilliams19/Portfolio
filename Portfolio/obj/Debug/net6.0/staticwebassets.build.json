@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jYuZkoOJmd84NBLHgOMEV5+D5uvutJ06GyeuHRc0jMI=",
+  "Hash": "0QlBXhTlKCDyScDl9WPn/sYBwqJQsebGcSsL/eSyNMg=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\images\\amazon.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/amazon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\amazon.png"
+    },
+    {
       "Identity": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\images\\fotodotnet.png",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -134,6 +151,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\fotoperfil.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\images\\reddit.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/reddit.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\reddit.png"
+    },
+    {
+      "Identity": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\images\\steam.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "images/steam.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\steam.png"
     },
     {
       "Identity": "C:\\Users\\MichaelWilliams\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\js\\site.js",
